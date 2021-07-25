@@ -1,0 +1,4 @@
+C:\Users\USER\Documents\my_mods\actual_mods\NamesGaloreLatin\Assemblies\NamesGaloreLatin.dll
+C:\Users\USER\Documents\my_mods\actual_mods\NamesGaloreLatin\Source\NamesGalore\obj\Debug\NamesGaloreLatin.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\my_mods\actual_mods\NamesGaloreLatin\Source\NamesGalore\obj\Debug\NamesGaloreLatin.csproj.CopyComplete
+C:\Users\USER\Documents\my_mods\actual_mods\NamesGaloreLatin\Source\NamesGalore\obj\Debug\NamesGaloreLatin.dll
