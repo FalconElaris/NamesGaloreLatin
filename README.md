@@ -1,6 +1,6 @@
 # NamesGaloreLatin -  [![RimWorld 1.3](https://img.shields.io/badge/RimWorld-1.3-green.svg?longCache=true&style=plastic)](http://rimworldgame.com/)
 
-This mod is a port to 1.3 of Gárulf's [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2017130910]NamesGalore[url] Mod. I've reconfigured it to add lists of Latin names. Currently only works for players with `English` set as their language.
+This mod is a port to 1.3 of Gárulf's https://steamcommunity.com/sharedfiles/filedetails/?id=2017130910 NamesGalore Mod. I've reconfigured it to add lists of Latin names. Currently only works for players with `English` set as their language.
 
 ## Features
 - Adds first names for females and males
